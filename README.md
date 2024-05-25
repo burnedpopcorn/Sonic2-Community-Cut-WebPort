@@ -8,6 +8,10 @@ I did not compile this myself, instead I stole it from HeyJoeWay's website
 
 Currently, this port has a similar situation to my Sonic 3 A.I.R. re-upload, so you will have to do the same work-around as that project
 
+### Thanks To
+- HeyJoeWay, for the original Sonic 2 Community's Cut [Project](https://github.com/heyjoeway/s2cx) and now somewhat defunct [Website](https://jojudge.com/s2cx/)
+- bitdruid, for the [Wayback Machine Downloader](https://github.com/bitdruid/python-wayback-machine-downloader)
+
 ### To Run this yourself
 - Get the files from this repo (Code -> Download ZIP)
 - Put the files in a web server (Because this was made with Emscripten, it CANNOT be run locally with the file:// protocol, as that results in CORS issues because of Emscripten Limitations)
