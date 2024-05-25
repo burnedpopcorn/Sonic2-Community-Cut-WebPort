@@ -1,5 +1,7 @@
 # Sonic 2 Communty's Cut Web Port
 
+![image](https://github.com/burnedpopcorn/Sonic2-Community-Cut-WebPort/blob/main/sonic2.png)
+
 Demo Site of This Project: https://sonicwebports.x10.mx/sonic2cc/index.html
 
 ### About Repository
