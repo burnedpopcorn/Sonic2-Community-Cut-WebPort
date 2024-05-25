@@ -1,22 +1,11 @@
-# Sonic Mania Plus Web Port
+# Sonic 2 Communty's Cut Web Port
 
-WebAssembly Port of Sonic Mania, which includes the Mania Plus DLC
-
-Demo Site of This Project: https://sonicwebports.x10.mx/sonicmania/RSDKv5.html
-
-![image](https://github.com/burnedpopcorn/SonicManiaPlusWebPort/blob/main/sm%2Bimages/sm%2Btitle.png)
+Demo Site of This Project: https://sonicwebports.x10.mx/sonic2cc/index.html
 
 ### About Repository
-I did not compile this myself, all I did was fork it from VinMannie, thanks to him for doing it for me
+I did not compile this myself, instead I stole it from HeyJoeWay's website
+> (This was after the site shutdown, so I had to use the Wayback Machine to get it)
 
-> [!WARNING]
-> There aren't many issues with this port, except an obvious one, being that:
-> - Main Menu Crashes when Pressing any Key
->
-> Luckily there is a workaround for this
-> - By pressing the ESC Key, you can enter the Debug Menu, which has many options, including a Level Select, so you can play all the levels using that method
->
->  ![image](https://github.com/burnedpopcorn/SonicManiaPlusWebPort/blob/main/sm%2Bimages/sm%2Bdevmenu.png)
 
 ### To Run this yourself
 - Get the files from this repo (Code -> Download ZIP)
