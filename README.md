@@ -5,7 +5,7 @@
 Demo Site of This Project: https://sonicwebports.x10.mx/sonic2cc/index.html
 
 ### About Repository
-I did not compile this myself, instead I stole it from HeyJoeWay's website
+I did not compile this myself, instead I stole it from HeyJoeWay's website, but I did modify it a bit
 > (This was after the site shutdown, so I had to use the Wayback Machine to get it)
 
 Currently, this port has a similar situation to my Sonic 3 A.I.R. re-upload, so you will have to do the same work-around as that project
