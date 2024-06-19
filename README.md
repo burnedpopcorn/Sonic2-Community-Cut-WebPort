@@ -3,6 +3,7 @@
 ![image](https://github.com/burnedpopcorn/Sonic2-Community-Cut-WebPort/blob/main/sonic2.png)
 
 Demo Site of This Project: https://sonicwebports.x10.mx/sonic2cc/index.html
+Github.IO Mirror: https://burnedpopcorn.github.io/Sonic2-Community-Cut-WebPort/
 
 ### About Repository
 I did not compile this myself, instead I stole it from HeyJoeWay's website, but I did modify it a bit
